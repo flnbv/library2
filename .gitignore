@@ -1,0 +1,122 @@
+# yii console commands
+/yii
+/yii_test
+/yii_test.bat
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/.vagrant
+
+# ignore generated files
+/frontend/web/index.php
+/frontend/web/index-test.php
+/frontend/web/robots.txt
+/backend/web/index.php
+/backend/web/index-test.php
+/backend/web/robots.txt
+
+
+# Yii2 specific
+/vendor/
+runtime/
+web/assets/
+uploads/
+console/runtime/
+console/web/assets/
+frontend/runtime/
+frontend/web/assets/
+frontend/uploads/
+backend/runtime/
+backend/web/assets/
+backend/uploads/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+/.idea/
+/*.suo
+/*.ntvs_analysis.dat
+/*.njsproj
+/*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node.js modules
+/node_modules/
+
+# Composer files
+composer.lock
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+
+# Logs
+*.log
+
+# Environment files
+/.env
+
+# MacOS Finder
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Build directories
+/build/
+/dist/
+
+# Ignore all .swp files created by vim
+*.swp
+
+# Ignore files created by MacOS
+*.DS_Store
+
+# Ignore generated files
+*.log
+*.tmp
+
+# Ignore database backups
+*.sql
+*.sql.gz
+*.db
+
+# Ignore PHPStorm
+.idea/
+
+# Ignore custom IDE config
+*.sublime-workspace
+*.sublime-project
